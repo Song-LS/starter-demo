@@ -1,0 +1,6 @@
+com\sls\core\SlsException2.class
+com\sls\core\SlsExceptionHandler.class
+com\sls\core\Sls.class
+com\sls\core\EnableSls.class
+com\sls\core\SlsSelector.class
+META-INF\spring-configuration-metadata.json

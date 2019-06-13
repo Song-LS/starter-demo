@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "cn.sls",
+      "type": "com.sls.core.Sls",
+      "sourceType": "com.sls.core.Sls"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cn.sls.name",
+      "type": "java.lang.String",
+      "sourceType": "com.sls.core.Sls"
+    }
+  ],
+  "hints": []
+}

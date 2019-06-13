@@ -1,0 +1,8 @@
+
+cn:
+  sls:
+    name: 1111adadaa
+  gjing:
+    swagger:
+      //这里还加了个骚的 配置文件判断，我去掉下面的
+#      base-package: com.example.demo.web
